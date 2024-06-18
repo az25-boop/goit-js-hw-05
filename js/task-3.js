@@ -47,7 +47,7 @@ console.log(
 //     name: "Ross Vazquez",
 //     friends: ["Marilyn Mcintosh", "Padilla Garrison", "Naomi Buckner"],
 //     gender: "male"
-//   },
+// },
 //   {
 //     name: "Sharlene Bush",
 //     friends: ["Briana Decker", "Sharron Pace"],
